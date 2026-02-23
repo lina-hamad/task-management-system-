@@ -1,0 +1,17 @@
+TASK MANAGEMENT SYSTEM REPORT
+
+ UNPERFORMED TASKS :
+ID: 12    Name: shopping              Date: 21/3/2025   Duration:   5.5 hours
+ID: 13    Name: visit grandparents    Date: 24/3/2025   Duration:   7.0 hours
+ID: 14    Name: study COMP2421 course  Date: 24/3/2025   Duration:   3.5 hours
+ID: 15    Name: submit project 1      Date: 5/4/2025    Duration:   0.1 hours
+ID: 10    Name: lina                  Date: 8/6/2005    Duration:   5.9 hours
+ID: 11    Name: attend lecture        Date: 25/3/2025   Duration:   3.0 hours
+UNDONE TASKS :
+ID: 8993752  Name: 0+‰                   Date: 25/3/2025   Duration:   3.0 hours
+ID: 8993752  Name: 0+‰                   Date: 25/3/2025   Duration:   3.0 hours
+ID: 8993752  Name: 0+‰                   Date: 25/3/2025   Duration:   3.0 hours
+ID: 8987408  Name: 0+‰                   Date: 25/3/2025   Duration:   3.0 hours
+ID: 11    Name: attend lecture        Date: 25/3/2025   Duration:   3.0 hours
+PERFORMED TASKS :
+ID: 10    Name: meeting               Date: 22/3/2025   Duration:   1.5 hours
